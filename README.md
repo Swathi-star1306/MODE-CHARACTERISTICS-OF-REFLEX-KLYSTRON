@@ -94,6 +94,9 @@ frequency characteristic of the modes.
 
 **Observation:**
 
+<img width="930" height="554" alt="image" src="https://github.com/user-attachments/assets/84dad4e7-96bd-4f99-ab95-9c5431bffd55" />
+
+
 **CALCULATIONS:**
 1. Tuning range of 1 ¾ mode is
 
@@ -104,12 +107,15 @@ VSWR meter.
 N1 = n + ¾ with V2 = 
 N2 = (n +1) + ¾ 
 with V1 = 
-N1 & N2 are respective modes numbers. 
+N1 & N2 are respective modes numbers.
 
-3.  ETS (Electronic Tuning Sensitivity) = f2 - f1 / V2 – V1 MHz / V
+![WhatsApp Image 2025-11-17 at 21 56 15_e413da37](https://github.com/user-attachments/assets/990c7724-f264-414b-b69f-149bb8e5b4d5)
+
+
+4.  ETS (Electronic Tuning Sensitivity) = f2 - f1 / V2 – V1 MHz / V
 
 **Conclusion:** 
-
+The mode characteristics of the reflex klystron were successfully studied. The different oscillation modes were identified by varying the repeller voltage and observing the corresponding output frequency and power. The electronic tuning range (ETR) and electronic tuning sensitivity (ETS) were calculated from the frequency variations. The experiment verified that the oscillation frequency of a reflex klystron depends on the repeller voltage and that maximum power occurs at specific mode conditions. Thus, the reflex klystron effectively demonstrates velocity modulation, bunching, and electronic tuning principles.
  
 
 
