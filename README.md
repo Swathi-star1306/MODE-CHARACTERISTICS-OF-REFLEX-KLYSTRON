@@ -115,6 +115,7 @@ N1 & N2 are respective modes numbers.
 4.  ETS (Electronic Tuning Sensitivity) = f2 - f1 / V2 – V1 MHz / V
 
 **Conclusion:** 
+
 The mode characteristics of the reflex klystron were successfully studied. The different oscillation modes were identified by varying the repeller voltage and observing the corresponding output frequency and power. The electronic tuning range (ETR) and electronic tuning sensitivity (ETS) were calculated from the frequency variations. The experiment verified that the oscillation frequency of a reflex klystron depends on the repeller voltage and that maximum power occurs at specific mode conditions. Thus, the reflex klystron effectively demonstrates velocity modulation, bunching, and electronic tuning principles.
  
 
